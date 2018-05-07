@@ -1,5 +1,5 @@
 This is a simpile mass mail verifier
-it gives an input named " INPUT.TXT " in which you put email addresses (one email per line)
+it gets an input named " INPUT.TXT " in which you put email addresses (one email per line)
 then run the script and it gives you two new files with valid and invalid mail list
 
 
